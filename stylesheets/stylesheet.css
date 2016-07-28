@@ -1,1 +1,132 @@
+body {
+    background-color: white;
+    font-family: Impact;
+    font-size: 25px;
+}
+
+.badge {
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+    left: 600px;
+    top: 10px;
+    height: 100px;
+    width: 135px; 
+    border: 5px dashed brown;
+    position: absolute;
+    background-color: cyan;
+    background: url("https://s-media-cache-ak0.pinimg.com/236x/ca/52/a0/ca52a0341b8fea941369324853c34f79.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.joker {
+    position: absolute;
+    left: 200;
+    width: 600;
+    z-index: -1;
+}
+
+table, th, td {
+    border: 5px solid gray;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+div {
+    height: 80px;
+    width: 80px; 
+    border: 5px solid red;
+    border-radius: 25px;
+}
+
+.bonusbar {
+    text-align: center;
+    font-size: 40px;
+    left: 46px;
+    top: 320px;
+    height: 55px;
+    width: 500px; 
+    border: 5px solid brown;
+    border-radius: 60px;
+    position: absolute;
+    background-color: cyan;
+}
+
+button {
+    background-color: orange;
+    border: 5px solid red;
+    padding: 15px 32px;
+    text-align: center;
+    font-family: Impact;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.counter{
+    font-size: 20px;
+    background-color: lightgreen;
+    border: 8px solid blue;
+    border-radius: 10px;
+    height: 140px;
+    width: 100px;
+    margin: 0px 2px;
+    padding: 0px;
+    cursor: crosshair;
+}
+
+.value1 {
+    background: url("https://t2.rbxcdn.com/d2d54e235288531bc4ca8add155ade49");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.value2 {
+    background: url("https://t2.rbxcdn.com/a6812f930198e56f758e1536222fe24d");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.value3 {
+    background: url("https://t6.rbxcdn.com/679f8d195b7e0581c15f6291dcd93868");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.value4 {
+    background: url("http://roadtolarissa.com/javascript/hangout-boardgames/dice/4.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.value5 {
+    background: url("https://t6.rbxcdn.com/b6ff2a9819f5753c61e1d7463bafd43a");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.value6 {
+    background: url("https://t4.rbxcdn.com/e5af2af3a647294456dc6b540ae50a5a");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
 
