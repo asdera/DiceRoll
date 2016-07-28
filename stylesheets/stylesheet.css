@@ -24,8 +24,8 @@ body {
 
 .joker {
     position: absolute;
-    left: 200;
-    width: 600;
+    left: 200px;
+    width: 600px;
     z-index: -1;
 }
 
