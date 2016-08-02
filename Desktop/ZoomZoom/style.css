@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-size: 48px;
+}
+
+.player {
+	position: absolute;
+	border-radius: 10%;
+	background-color: blue;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+  cursor: none;
+}
+
+.enemy {
+  left: 1200px;
+	position: absolute;
+	border-radius: 10%;
+	background-color: red;
+	width: 60px;
+	height: 60px;
+	text-align: center;
+}
